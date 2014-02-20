@@ -18,7 +18,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/consumer-resource.xml</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.html</loc>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.xml</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/index.html</loc>
@@ -38,18 +38,30 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/single-species.xml</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/tags-consumer-resource-single-species-dynamics.html</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/tags-consumer-resource-single-species-dynamics.xml</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
+ </url>
+ <url>
+  <loc>http://mathbio.github.io/galleries/index.html</loc>
+  <lastmod>2014-02-20</lastmod>
+ </url>
+ <url>
+  <loc>http://mathbio.github.io/galleries/rss.xml</loc>
+  <lastmod>2014-02-20</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/index.html</loc>
+  <lastmod>2014-02-20</lastmod>
+ </url>
+ <url>
+  <loc>http://mathbio.github.io/listings/index.html</loc>
   <lastmod>2014-02-20</lastmod>
  </url>
  <url>
@@ -58,6 +70,6 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/rss.xml</loc>
-  <lastmod>2014-02-19</lastmod>
+  <lastmod>2014-02-20</lastmod>
  </url>
 </urlset>
