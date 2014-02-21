@@ -6,15 +6,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://mathbio.github.io/2014/index.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/archive.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/consumer-resource.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/consumer-resource.xml</loc>
@@ -22,7 +22,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.xml</loc>
@@ -30,11 +30,11 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/index.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/single-species.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/single-species.xml</loc>
@@ -50,26 +50,26 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/galleries/index.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/galleries/rss.xml</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/index.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/listings/index.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/posts/from-consumer-resource-to-single-species-dynamics.html</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/rss.xml</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
 </urlset>
