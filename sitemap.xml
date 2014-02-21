@@ -18,7 +18,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/consumer-resource.xml</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.html</loc>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/dynamics.xml</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/index.html</loc>
@@ -38,7 +38,7 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/single-species.xml</loc>
-  <lastmod>2014-02-20</lastmod>
+  <lastmod>2014-02-21</lastmod>
  </url>
  <url>
   <loc>http://mathbio.github.io/categories/tags-consumer-resource-single-species-dynamics.html</loc>
@@ -66,6 +66,10 @@
  </url>
  <url>
   <loc>http://mathbio.github.io/posts/from-consumer-resource-to-single-species-dynamics.html</loc>
+  <lastmod>2014-02-21</lastmod>
+ </url>
+ <url>
+  <loc>http://mathbio.github.io/posts/numerical-integration-tutorial.html</loc>
   <lastmod>2014-02-21</lastmod>
  </url>
  <url>
